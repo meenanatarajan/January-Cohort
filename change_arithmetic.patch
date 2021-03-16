@@ -1,0 +1,10 @@
+--- arithmetic1.py	2020-11-05 09:39:09.843601200 -0500
++++ arithmetic2.py	2020-11-05 09:40:14.693701300 -0500
+@@ -11,3 +11,6 @@
+ 
+ def Division(num1, num2):
+ 	return num1/num2
++
++def Modulo(num1, num2):
++    return num1%num2
+\ No newline at end of file

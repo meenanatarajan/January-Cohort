@@ -1,0 +1,8 @@
+--- variable.py	2020-10-21 12:58:01.872614800 -0400
++++ variable1.py	2020-11-04 17:28:07.752589100 -0500
+@@ -1,4 +1,4 @@
+ import os
+ 
+ print("PSModulePath: "+os.environ.get("PSModulePath", ""))
+-print("FRUIT: "+ os.environ.get("FRUIT", ""))
++print("Vegetable: "+ os.environ.get("vegetable", ""))
