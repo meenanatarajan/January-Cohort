@@ -6,3 +6,4 @@ for i in $files ; do
  if test -e "..$i"; then echo "$i" >> oldFiles.txt;
  fi
 done
+#End of program
