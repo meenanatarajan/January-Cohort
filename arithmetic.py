@@ -4,7 +4,7 @@ import math
 def Addition(num1, num2):
 	return num1+num2
 
-#Adding a comment line
+#Function to subtract two numbers
 def Subtraction(num1, num2):
 	return num1-num2
 
