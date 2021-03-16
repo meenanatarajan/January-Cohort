@@ -1,0 +1,4 @@
+4c4
+< print("FRUIT: "+ os.environ.get("FRUIT", ""))
+---
+> print("Vegetable: "+ os.environ.get("vegetable", ""))
