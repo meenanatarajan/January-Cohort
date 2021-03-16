@@ -8,6 +8,7 @@ def Addition(num1, num2):
 def Subtraction(num1, num2):
 	return num1-num2
 
+#Function to multiply two numbers
 def Multiplication(num1, num2):
 	return num1*num2;
 
