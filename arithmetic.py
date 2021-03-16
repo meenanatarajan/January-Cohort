@@ -1,5 +1,6 @@
 import math
 
+# Function to add two numbers
 def Addition(num1, num2):
 	return num1+num2
 
